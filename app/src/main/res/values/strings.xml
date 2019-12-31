@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="title_home">我的家</string>
+    <string name="title_dashboard">我的设备</string>
+    <string name="title_notifications">我的信息</string>
+    <string name="app_name">智能家居</string>
+</resources>
